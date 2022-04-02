@@ -34,4 +34,4 @@ function snackBar(text, duration) {
     }
   }
   
-  export default snackBar;
+module.exports = snackBar;

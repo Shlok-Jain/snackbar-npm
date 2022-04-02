@@ -1,0 +1,23 @@
+{
+  "name": "snackbar-notification-js",
+  "version": "1.0.0",
+  "description": "This is an amazing nodejs module which can be used to show notifications in your web apps. This looks like snackbar used in android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shlok-Jain/snackbar-npm.git"
+  },
+  "keywords": [
+    "notification",
+    "snackbar"
+  ],
+  "author": "Shlok Nilesh Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shlok-Jain/snackbar-npm/issues"
+  },
+  "homepage": "https://github.com/Shlok-Jain/snackbar-npm#readme"
+}

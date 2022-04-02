@@ -34,3 +34,4 @@ function snackBar(text, duration) {
     }
   }
  
+module.exports = snackBar;

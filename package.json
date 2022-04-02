@@ -1,6 +1,6 @@
 {
   "name": "snackbar-notification-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an amazing nodejs module which can be used to show notifications in your web apps. This looks like snackbar used in android.",
   "main": "index.js",
   "scripts": {

@@ -34,4 +34,4 @@ function SnackBar(text, duration) {
   }
 }
 
-module.exports = SnackBar();
+// module.exports = SnackBar();

@@ -33,5 +33,4 @@ function snackBar(text, duration) {
         div.innerText = text;
     }
   }
-  
-module.exports = snackBar;
+ 

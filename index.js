@@ -7,7 +7,7 @@ function snackBar(text, duration) {
         div.style.height = "30px"
         div.style.width = "fit-content"
         div.style.margin = "10px"
-        div.style.padding = "10px"
+        div.style.padding = "25px"
         div.style.position = "fixed"
         div.style.bottom = "20px"
         div.style.left = "20px"

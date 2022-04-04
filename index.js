@@ -1,4 +1,5 @@
 function snackBar(text, duration) {
+console.log("snack")
     var div = document.getElementById('snackbar-js')
     if (!div) {
         div = document.createElement("div")
